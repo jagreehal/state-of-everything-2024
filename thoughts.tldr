@@ -1,0 +1,210 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 4,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 25,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 5,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.asset.image": 3,
+			"com.tldraw.asset.video": 3,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 2,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 1,
+			"com.tldraw.shape.geo": 8,
+			"com.tldraw.shape.note": 6,
+			"com.tldraw.shape.line": 4,
+			"com.tldraw.shape.frame": 0,
+			"com.tldraw.shape.arrow": 4,
+			"com.tldraw.shape.highlight": 0,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 3,
+			"com.tldraw.shape.video": 2,
+			"com.tldraw.binding.arrow": 0
+		}
+	},
+	"records": [
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 832.6219286729862,
+			"y": 5256.793132336328,
+			"lastActivityTimestamp": 1718182307367,
+			"meta": {}
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:font": "draw",
+				"tldraw:size": "xl",
+				"tldraw:color": "black"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1680,
+				"h": 965
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 2,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"editingShapeId": "shape:MdkUOCX0x6cZpCCL_k91j",
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:MdkUOCX0x6cZpCCL_k91j"
+			],
+			"hoveredShapeId": "shape:MdkUOCX0x6cZpCCL_k91j",
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 153.56754579791402,
+			"y": -4391.980823954154,
+			"z": 0.7909230631552595,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 92.51994278729586,
+			"y": -500.7296607882558,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:M-MHD92T8RGjFKHMFqCLv",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 657.8194362104484,
+				"text": "Planning/Prototyping Tools\n\nALL ABOUT ME!\n\n⚠️ OPINIONS AHEAD\n\nTHERE IS NO MAGIC FORMULA!",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 0.921345980751922
+			},
+			"parentId": "page:page",
+			"index": "a3",
+			"typeName": "shape"
+		},
+		{
+			"x": 104.59030226483054,
+			"y": -177.89836243650043,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MdkUOCX0x6cZpCCL_k91j",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1153.515625,
+				"text": "\n\n\nNo one trusted me... \n\nSo I changed that!\n\nQ. Who do stakeholders trust?\n\nFACT: They want to know \"you got this\".\n\nEXAMPLE: CUP\n\n--------\n\n> THE DARK SIDE\n\nFACT: YOu are just a ⚙️\n\nDO: Look after yourself. \n\nFACT: FAMILY > WORK\n\nMUST: Psychological Safety\n\nMUST: Empathy (OMG Jose Mourinho)\n\n--------\n\n> PLANNING\n\nFACT: Context is everything - time, complexity, and unknowns.\n\nFACT: Projects I have worked on are similar but never the same!\n\nTip of the iceberg problem (draw a picture...)\n\n\n\n\n\n\n  - \"X\" within 3 months was dangerous \n    as it sets expectation, created pressure, and \n    created a  situation where nobody won\n\n\nFACT: Projects NEVER end in the way they were planned\n\nFACT: That's a good thing!\n\nQ. Who knows what Norm Kerth's Prime Directive is?\n\n\"Regardless of what we discover, \nwe understand and truly believe that\neveryone did the best job they could, given \nwhat they knew at the time, their skills and abilities,\nthe resources available, and the situation at hand.\"\n\n--------\n\n> CULTURE!\n\nFACT: A great engineer will fail at a bad company\n\nQ. IS IT DONE YET?\n\nFACT: Most companies only care about/measure velocity 😞\n\nTREND: You build it, and you own it!\n\nTREND: A lot of companies are \"shifting-left.\"\n\nQ. WHO HAS HEARD OF MARTY CAGAN?\n\nFACT: Product culture changes everything! \n\nFACT: OUTCOMES > OUTPUT\n\nFACT: Feature teams are getting tickets across the board 😞\n\nDO: Best teams will have people who feel they have a say.\n\nLISTEN: Disagree and commit. https://37signals.com/podcast/disagree-and-commit/\n\nDO: Keeps things open and trasparent. Everything I say can be shared! 🙏\n\nDO: Comminicate like a Cricket Team\n\nDO: Learn to draw, visualisations help! \n\nCUP: - I'm still working it out, probably Vicky D.\n \n--------\n\n> AGILE\n\nFACT: Companies are giving Agile/Scrum/Lean a bad name\n\nQ. Is it really People > Processes?\n\nWATCH: Any Jeff Patton video - https://www.youtube.com/watch?v=6OoWo_6VtJw\n\nQ. Who knows who Allen Holub is? \n\nSPICY: Sit down with Agile Nazis and go thru https://x.com/allenholub\n\nFACT: Companies make millions for pushing SCRUM!\n\nFACT: You are not Spotify! They don't do what you think they do!\n\nFACT: To have agility, you have to be able to inspect and adapt regularly\n\nWATCH: \"We've always done it this way\" - https://www.youtube.com/watch?v=WPCrGYjrJ1Y&t\n\nDO: REWORK - Think in bets!\n\nDO: Communicate like a team fielding in cricket \n\nBACKLOG: The longer it gets, the more useless it is.\n\nESTIMATING: Absolute bollocks, just break things into 3s.\n\nRETROSPECTIVE: Dangerous game as you must ACT on feedback.\n\nSaFE: Good god, don't do it.\n\n--------\n\n> ACTUALLY GETTING STARTED!\n\nFACT: Agile is about Agility!\n\nFACT: Unknowns are always going to happen.\n\nQ. Who knows who Simon Sinak is?\n\nFACT: Infinite > Finate thinking\n\nFACT: Composition === Agility!\n\nQ. Enterprise vs Start-up!\n\nAKA:  Parking the bus. vs. Headless chickens\n\nFACT: Balance of the two!\n\nDO: SHOW DON'T TELL\n\nQ Do you know who Kent Beck is?\n\nFACT: Make It Work, Make It Right, Make It Fast\n\nFACT: Feature branches are essential!\n\n--------\n\n> CHOOSING TECH\n\nFACT: FOMO is crazy!\n\nFACT: Demoware is worse now than ever\n\nFACT: Client vs Server or Server vs Client\n\nQ. Frameworks for static sites!  \n\nFACT: ASTRO is the BEST! ❤️\n\nFACT: LATEST !== GREATEST e.g. Shadcn\n\nQ. Impact of staff retention/hiring?\n\nDO: Moving to monorepos - discuss as team, considered approach is best.\n\nFACT: I got criticised for using Typescript and Tailwind at CUP\n\nFACT: Pervious client copied my approach six months later!\n\n--------\n\n> CHOOSING ARCHITECTURE\n\nAIM: Be able to recreate locally.\n\nPREF: K8 > Serverless\n\nUNLESS: Cloudflare ❤️\n\nIAC: USE Typescript - SST, Pulumi, CDK\n\nAIM: Get to ASYNC ASAP (Event Driven architecture)\n\nTREND: Using Streams\n\n--------\n\n> TESTING\n\nFACT: You will never pass an interview at a consultancy without testsing\n\nHERO: Rebecca Murphy \n\nFACT: Testing trophies - Integration tests are best!\n\nDO: Use Wallaby! ❤️\n\nQ. What does test coverage give you?\n\n--------\n\n> LEARNING\n\nFACT:  Scott Hanselman was right - build demos!\n\nMEETUPS: Get to meet different people!\n\nDO: Present you will understand how much you don't know\n\nFACT: Will show effort and SOMEONE will notice!\n\nSHARE: It might save you from an interview task!",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a4",
+			"typeName": "shape"
+		},
+		{
+			"x": 750.409392814555,
+			"y": -476.52419788670414,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:fRimhvdZL9kCoxi2ZNjFC",
+			"type": "line",
+			"parentId": "page:page",
+			"index": "a5",
+			"props": {
+				"dash": "draw",
+				"size": "xl",
+				"color": "black",
+				"spline": "line",
+				"points": {
+					"a1": {
+						"id": "a1",
+						"index": "a1",
+						"x": 0,
+						"y": 0
+					},
+					"a2": {
+						"id": "a2",
+						"index": "a2",
+						"x": -675.4322605938761,
+						"y": 5.5482454866201465
+					}
+				}
+			},
+			"typeName": "shape"
+		}
+	]
+}
